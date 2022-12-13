@@ -1,5 +1,6 @@
 import Particles from "react-tsparticles";
 import { loadFull } from "tsparticles";
+import Caraousel from "./components/Caraousel";
 
 export default function App() {
   const particlesInit = async (main) => {
@@ -84,7 +85,9 @@ export default function App() {
             }
           }
         }}
-      />
+      >
+        <Caraousel />
+      </Particles>
     </div>
     </>
   );

@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import '../css/Herosection.css';
 import left from '../images/final-left.png';
 import right from '../images/Right-image.png';
@@ -8,7 +8,13 @@ import text from '../images/tesseract_png.png';
 const Herosection = () => {
 
     const [offset, setOffset] = useState();
-    const handleScroll = () => setOffset(window.pageYOffset)
+    const handleScroll = () => setOffset(window.pageYOffset);
+
+    useEffect(() => {
+        window.addEventListener('scroll',handleScroll);
+
+        return () => window.removeEventListener('scroll',handleScroll);
+    },[])
     window.addEventListener('scroll',handleScroll)
 
     return ( 
@@ -26,15 +32,18 @@ const Herosection = () => {
                     </div>
                 </div>
             <div className="zoom">
-                    <img className="left-img" src={left} alt="" 
-                        style={{width: (100 + offset * 0.3) + '%'}}
+                    {/* <img className="left-img" src={left} alt="" 
+                        style={
+                            {width: (100 + offset * 0.3) + '%'}
+                            
+                        }
                     />
                     <img className="right-img" src={right} alt="" 
                         style={{width: (100 + offset * 0.3) + '%'}}
                     />
                     <img className="text-img" src={text} alt=""
                         style={{top : `-${10 + offset * 0.3 + `%` }`}}
-                    />
+                    /> */}
                 </div>
             </div>
             <div className="general-info">

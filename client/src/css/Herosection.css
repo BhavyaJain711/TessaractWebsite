@@ -9,6 +9,13 @@
   overflow-x: hidden;
 }
 
+/* .zoom{
+  width: 100%;
+  height: 100vh;
+  overflow-x: hidden;
+  overflow-y: auto;
+
+} */
 /* for parllax */
 .left-img{
     position: absolute;
@@ -63,21 +70,24 @@
   /* text-align: center; */
   position: absolute;
   display: flex;
-  top: 35%;
+  top: 40%;
   left: 27%;
 }
 .mouse-move h2{
   font-weight: 100;
-  font-size: 3em;
+  font-size: 4.5em;
 }
 .mouse-move h1{
   font-weight: 900;
-  font-size: 3em;
+  font-size: 4.5em;
 }
 .right{
   width: 50%;
-  padding: 2em;
-  padding-left: 3em;
+  /* padding: 2em;
+  padding-left: 3em; */
+}
+.right p{
+  font-size: 1.5em;
 }
 /* for responsivenes */
 @media (max-width: 500px) {
@@ -91,6 +101,47 @@
         height: 40vh;
         background-position: center;
       }
+      /* .mouse-move {
+        top: 10%;
+        left: 10%;
+        position: relative;
+      }
+      .left{
+        position: relative;
+        display: block;
+        width: 100%;
+      }
+      .mouse-move h1{
+        font-size: 2em;
+      }
+      .mouse-move h2{
+        font-size: 2em;
+      }
+      .right{
+        margin: auto;
+        display: block;
+        width: 100%;
+        position: relative;
+      }
+      .right p{
+        font-size: 1rem;
+      } */
+      .mouse-move {
+        top: 8%;
+        left: 10%;
+      }
+      .mouse-move h1{
+        font-size: 2.3em;
+      }
+      .mouse-move h2{
+        font-size: 2.3em;
+      }
+      .right{
+        margin: auto;
+      }
+      .right p{
+        font-size: 0.7em;
+      }
 }
 @media (min-width: 500px) and (max-width: 750px) {
     .hero-section {
@@ -100,6 +151,22 @@
       background-position: 80% center;
       background-repeat: no-repeat;
       height: 70vh;
+    }
+    .mouse-move {
+      top: 20%;
+      left: 20%;
+    }
+    .mouse-move h1{
+      font-size: 3em;
+    }
+    .mouse-move h2{
+      font-size: 3em;
+    }
+    .right{
+      margin: auto;
+    }
+    .right p{
+      font-size: 1em;
     }
   }
   
@@ -114,6 +181,22 @@
         height: 75vh;
         background-position: center;
       }
+      .mouse-move {
+        top: 20%;
+        left: 20%;
+      }
+      .mouse-move h1{
+        font-size: 3.5em;
+      }
+      .mouse-move h2{
+        font-size: 3.5em;
+      }
+      .right{
+        margin: auto;
+      }
+      .right p{
+        font-size: 1.2em;
+      }
   }
   
   @media (min-width: 1000px) {
@@ -126,6 +209,22 @@
         width: 100%;
         height: 90vh;
         background-position: center;
+      }
+      .mouse-move {
+        top: 30%;
+        left: 23%;
+      }
+      .mouse-move h1{
+        font-size: 4em;
+      }
+      .mouse-move h2{
+        font-size: 4em;
+      }
+      .right{
+        margin: auto;
+      }
+      .right p{
+        font-size: 1.4em;
       }
   }
   
@@ -142,11 +241,13 @@
       z-index: 1000;
       background-position: center;
     }
+    .mouse-move {
+      top: 40%;
 
-
-
-
-
+    }
+    .right{
+      margin: auto;
+    }
 
   }
   

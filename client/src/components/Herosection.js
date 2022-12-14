@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import '../css/Herosection.css';
+import hero from '../images/hero-img.png';
 import left from '../images/final-left.png';
 import right from '../images/Right-image.png';
 import text from '../images/tesseract_png.png';
@@ -63,14 +64,6 @@ const Herosection = () => {
                              suscipit error! Adipisci sapiente, eaque commodi facere culpa laborum 
                              distinctio dolor. Quibusdam atque nihil, ut fuga blanditiis esse. 
                              Corrupti ad quidem aliquid voluptates quo placeat similique! Veritati
-                    </p>
-                </div>
-                <div>
-                    <p>
-                        check here
-                    </p>
-                    <p>
-                        again check
                     </p>
                 </div>
             </div>

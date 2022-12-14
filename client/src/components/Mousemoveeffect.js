@@ -1,6 +1,6 @@
-const parallax = document.querySelector('.mouse-move');
-const front = document.querySelector('.front-left');
-const back = document.querySelector('.back-');
+const parallax = document.querySelector('.');
+const front = document.querySelector('.');
+// const back = document.querySelector('.');
 
 // sensitivity for booth layers
 /* 
@@ -34,9 +34,9 @@ parallax.addEventListener('mousemove', e => {
      coordinates, and apply 
      the back sensitivity
     */ 
-   back.style.transform = `
-   translate(
-    ${x / sBack}%,
-    ${y / sBack}%
-   )`
+//    back.style.transform = `
+//    translate(
+//     ${x / sBack}%,
+//     ${y / sBack}%
+//    )`
 });

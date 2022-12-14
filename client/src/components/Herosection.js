@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import '../css/Herosection.css';
-import left from '../images/left-final.png';
+import left from '../images/final-left.png';
 import right from '../images/Right-image.png';
 import text from '../images/tesseract_png.png';
 // import '../components/Mousemoveeffect.js';
@@ -27,7 +27,7 @@ const Herosection = () => {
                 </div>
             <div className="zoom">
                     <img className="left-img" src={left} alt="" 
-                        style={{width: (100 + offset * 1) + '%'}}
+                        style={{width: (100 + offset * 0.3) + '%'}}
                     />
                     <img className="right-img" src={right} alt="" 
                         style={{width: (100 + offset * 0.3) + '%'}}

@@ -3,9 +3,9 @@ import Caraousel from "./components/Carousel";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import PopUp from "./components/Popup";
 import {useState} from 'react'
-// import Herosection from "./components/Herosection";
+import Herosection from "./components/Herosection";
 import Navbar from "./components/Navbar";
-
+ 
 export default function App() {
   const [gallery,setGallery]= useState(false);
   const toggleGallery = ()=> {
@@ -14,7 +14,7 @@ export default function App() {
 
 return(<>
   {!gallery && <Navbar />}
-  {/* <Herosection /> */}
+  <Herosection />
   <Background />
   <Caraousel style={{position:'relative'}}/>
   <PopUp  func={toggleGallery}/>

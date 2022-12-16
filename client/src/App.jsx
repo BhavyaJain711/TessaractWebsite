@@ -5,6 +5,7 @@ import PopUp from "./components/Popup";
 import {useState} from 'react'
 import Herosection from "./components/Herosection";
 import Navbar from "./components/Navbar";
+import './css/App.css';
  
 export default function App() {
   const [gallery,setGallery]= useState(false);

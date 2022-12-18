@@ -175,6 +175,9 @@
       }
 }
 @media (min-width: 500px) and (max-width: 750px) {
+  .zoom img{
+    visibility: hidden;
+  }
     /* .hero-section {
       background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
         url("../Images/hero.png");
@@ -333,4 +336,9 @@
         object-fit: cover;
         background-size: cover;
     } */
+  }
+  @media(max-width:1150px) {
+    .zoom img{
+      visibility: hidden;
+    }
   }

@@ -9,5 +9,7 @@
     color: yellow;
 }
 .navClass img{
-    width: 60px;
+    margin: -15px 0px;
+    width: 80px;
+    padding: 0;
 }

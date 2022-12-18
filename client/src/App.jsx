@@ -5,7 +5,7 @@ import PopUp from "./components/Popup";
 import {useState} from 'react'
 import Herosection from "./components/Herosection";
 import Navbar from "./components/Navbar";
- 
+ import Card from "./components/SNT_Card.jsx";
 export default function App() {
   const [gallery,setGallery]= useState(false);
   const toggleGallery = ()=> {
@@ -18,6 +18,7 @@ return(<>
   <Background />
   <Caraousel style={{position:'relative'}}/>
   <PopUp  func={toggleGallery}/>
+  <Card />
   </>
 )
   

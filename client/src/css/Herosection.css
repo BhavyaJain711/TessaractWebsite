@@ -76,8 +76,8 @@ script{
   .right p{
     font-size: 1em;
   }
-.content{
-    text-align: center;
+/* .content{
+  padding-top: 30in;
     font-family: 'Raleway';
     background-color: black;
     color: white;
@@ -91,7 +91,7 @@ script{
     padding: 3.5em;
     padding-bottom: 9em;
     color: #9a9a9a;
-}
+} */
 @media (max-width: 500px) {
     /* .hero-section {
         background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
@@ -449,7 +449,7 @@ script{
     }
     .zoom{
       width: 100%;
-      height: 110vh;
+      height: 120vh;
       position: relative;
       z-index: 1000;
       overflow: hidden;
@@ -461,7 +461,7 @@ script{
   }
   .left-img{
     position: absolute;
-    transform: translate(-60%,-8%);
+    transform: translate(-60%,7%);
     /* max-height: 200em; */
     top: 0;
     left: 50%;
@@ -470,7 +470,7 @@ script{
 .right-img{
     position: absolute;
     z-index: 100;
-    transform: translateX(3%);
+    transform: translate(3%,8%);
 }
 .text-img{
     /* z-index: 10000; */

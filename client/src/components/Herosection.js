@@ -1,7 +1,7 @@
 import React,{useState} from "react";
 import '../css/Herosection.css';
-import left from '../images/left.png';
-import right from '../images/right.png';
+import left from '../images/final-left.png';
+import right from '../images/Right-image.png';
 import text from '../images/text.png';
 
 const Herosection = () => {
@@ -32,12 +32,12 @@ const Herosection = () => {
                         style={{width: (100 + offset * 0.3) + '%'}}
                     />
                     <img className="text-img" src={text} alt=""
-                        style={{top : `-${10 + offset * 0.3 + `%` }`}}
+                        style={{top : `-${10 + offset * 0.4 + `%` }`}}
                     />
                 </div>
 
-                <div className="content">
-                    <h2>Great start of 2023</h2>
+                {/* <div className="content">
+                    <h2>Great start of 2023 <span>Lorem ipsum dolor sit.</span> </h2>
                     <p>
                         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Exercitationem harum 
                         modi alias dicta ex inventore quis ullam autem, eveniet facilis explicabo 
@@ -61,7 +61,7 @@ const Herosection = () => {
                                at consectetur numquam. Architecto magnam eos excepturi nostrum laboriosam
                                 adipisci at minus explicabo, modi et ad quis?
                     </p>
-                </div>
+                </div> */}
             </div>
         </>
        

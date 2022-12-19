@@ -31,7 +31,7 @@ const Secondpage = () => {
                         dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit odio asperiores voluptas?
                     </p>
                 </section>
-                    <section className="btn">
+                    <section className="btn1">
                         <button className="button">
                             <span className="text">
                                 <a href="">

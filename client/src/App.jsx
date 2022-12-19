@@ -4,13 +4,13 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import PopUp from "./components/Popup";
 import {useState} from 'react'
 import Herosection from "./components/Herosection";
-import Navbar from "./components/Navbar";
-import Navbar_1 from './components/Navbar_1.js';
+// import Navbar from "./components/Navbar";
+import Navbar from './components/Navbar_1.js';
 import './css/App.css';
 import Events from "./components/Events";
 import Secondpage from './components/Secondpage.js';
 import About from "./components/About";
- 
+
 export default function App() {
   const [gallery,setGallery]= useState(false);
   const toggleGallery = ()=> {
@@ -20,7 +20,7 @@ export default function App() {
 return(
 
 <>
-  <Navbar_1 />
+  <Navbar />
   <div className="app">
   <Herosection />
   <Secondpage />

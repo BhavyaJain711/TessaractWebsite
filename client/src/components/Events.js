@@ -6,7 +6,7 @@ import img2 from '../images/Ideathon.jpg';
 const Events = () => {
     return ( 
         <>
-<div className="Event">
+<div className="Event" id="eve">
 <div className="cards">
 <ul class="cards">
   <li>

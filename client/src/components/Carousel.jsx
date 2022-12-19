@@ -4,7 +4,7 @@ import "./Carousel.css";
 import {Card,edmData} from "./Card.jsx";
 function CarouselFadeExample() {
   return (
-    <Carousel  className="carousel">
+    <Carousel  className="carousel" id='edm'>
     
     {edmData.map((artist,index)=>{
       return(

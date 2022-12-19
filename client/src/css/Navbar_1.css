@@ -80,10 +80,13 @@
     display: flex;
     gap:30px;
 } */
-.nav-menu li{
+
+.nav-menu li a{
+    color: white;
+    text-decoration: none;
     cursor: pointer;
 }
-.nav-menu li:hover{
+.nav-menu li a:hover{
     color: rgb(255, 153, 0);
     transition-duration: 500ms;
 }

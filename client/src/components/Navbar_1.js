@@ -1,4 +1,4 @@
-import React,{useState} from 'react';
+import {React,useState} from 'react';
 // import immg from '../img/tess.png'
 import '../css/Navbar_1.css';
 // import { Link } from "react-router-dom";
@@ -22,12 +22,12 @@ function Navbar(){
      <div className='logo' >Logo</div>
          <div className='links'>
              <ul className='nav-menu'>
-               <li className='nav-item'>Home</li>
-               <li className='nav-item'>EDM</li>
-               <li className='nav-item'>Gallery</li>
-               <li className='nav-item'>Events</li>
-               <li className='nav-item'>About </li>
-               <li className='nav-item'>Schedule</li>
+               <li className='nav-item'><a href="#">Home</a></li>
+               <li className='nav-item'><a href='#edm'>EDM</a></li>
+               <li className='nav-item'><a href='#'>Gallery</a></li>
+               <li className='nav-item'><a href='#eve'>Events</a></li>
+               <li className='nav-item'><a href='#'>Schedule</a></li>
+               <li className='nav-item'><a href='#about'>About</a></li>
             
               </ul>
         </div>

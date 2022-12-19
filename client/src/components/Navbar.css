@@ -158,15 +158,15 @@
       transition: 250ms;
     }
   } */
-
+/* 
   .navClass{
     font-size: 2rem;
     background-color: rgb(13, 13, 13);
     padding: 1.5rem;
     /* border-radius: 3rem; */
-    z-index: 5000;
-}
-.navClass a{
+    /* z-index: 5000; */
+/* } */
+/* .navClass a{
     color: rgb(255, 255, 255);
 }
 .navClass a:hover{
@@ -177,4 +177,4 @@
     margin: -15px 0px;
     width: 80px;
     padding: 0;
-}
+}  */

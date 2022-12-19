@@ -20,8 +20,7 @@ export default function App() {
 return(
 
 <>
-  {!gallery && <Navbar_1 />}
-
+  <Navbar_1 />
   <div className="app">
   <Herosection />
   <Secondpage />

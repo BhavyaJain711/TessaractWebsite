@@ -61,7 +61,7 @@ const Herosection = () => {
                                at consectetur numquam. Architecto magnam eos excepturi nostrum laboriosam
                                 adipisci at minus explicabo, modi et ad quis?
                     </p>
-                </div> */}
+                </div> */} 
             </div>
         </>
        

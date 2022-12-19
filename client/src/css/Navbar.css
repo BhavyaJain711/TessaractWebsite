@@ -1,4 +1,4 @@
-.navbar {
+/* .navbar {
     background: linear-gradient(90deg, rgb(28, 27, 27) 0%, rgb(26, 23, 23) 100%);
     height: 80px;
     display: flex;
@@ -6,7 +6,7 @@
     align-items: center;
     font-size: 1.2rem;
     position: sticky;
-    top: 0;
+    top: 0;s
     z-index: 999;
   }
   
@@ -155,4 +155,4 @@
       color: #242424;
       transition: 250ms;
     }
-  }
+  } */

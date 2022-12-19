@@ -7,17 +7,19 @@
     display: flex;
     gap:32%;
      height: 100px;
-     opacity: 65%;
+     opacity: 95%;
      width: 100%;
      padding: 0px;
      align-items: center;
     background-color: black;
+    z-index: 100;
 }
 .nav-menu {
     background-color: black;
     right:-140%;
     opacity: 95%;
     color:white;
+    font-size: small;
     list-style: none;
     position:fixed;
     top: 80px;
@@ -25,6 +27,7 @@
     width:100%;
     text-align: center;
     transition: 0.4s;
+    z-index: 900;
 }
 .hamburger{
     color:white;

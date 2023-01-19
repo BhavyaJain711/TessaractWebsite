@@ -7,13 +7,13 @@ const Secondpage = () => {
             <div className="general-info">
                 <h1>
                     Great start of 2023
-                    <p className="small-heading">
+                    {/* <p className="small-heading">
                         Lorem ipsum dolor sit <br /> amet.
-                    </p>
+                    </p> */}
                 </h1>
                 <div className="infos">
-                <section className="info-1">
-                    <p>
+                {/* <section className="info-1"> */}
+                    {/* <p>
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore illo
                          necessitatibus nesciunt maxime architecto! Excepturi voluptate, repellat
                         vero recusandae amet quidem corrupti cumque nesciunt veniam aut tempore
@@ -30,7 +30,9 @@ const Secondpage = () => {
                         velit labore alias aut corrupti tempora molestias tenetur perspiciatis 
                         dignissimos. Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit odio asperiores voluptas?
                     </p>
-                </section>
+                </section> */}
+                <section className="info-1">
+                <p>Tesseract, the annual Science and Technical Fest of PDEU, is one of Gujarat's biggest technical college fests. Tesseract provides a platform for tech nerds from colleges such as Pandit Deendayal Energy University and many others to interact, share and celebrate aspirations, creativity, and innovations. It attracts over 6,000 people each year and gives all the students who attend a platform to network and learn about cutting-edge developments in the areas of science and technology.</p></section>
                     <section className="btn">
                         <button className="button">
                             <span className="text">

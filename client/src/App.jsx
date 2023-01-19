@@ -26,10 +26,10 @@ return(
   <Herosection />
   <Secondpage />
   <Background />
-  <Caraousel style={{position:'relative'}}/>
+  {/* <Caraousel style={{position:'relative'}}/> */}
   <PopUp  func={toggleGallery}/>
   <Events />
-  <About />
+  {/* <About /> */}
   </div>
 </>
 )

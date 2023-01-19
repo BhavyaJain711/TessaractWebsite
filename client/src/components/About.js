@@ -4,9 +4,9 @@ import Card from "./SNT_Card.jsx";
 
 const About = () => {
     return ( 
-        <>  
+        <div id="about">  
             <Card />
-        </>
+        </div>
      );
 }
  

@@ -16,17 +16,5 @@
         "EventName": "Code War",
         "Club": "Encode",
         "TIME": "2"
-    },
-    {
-        "SrNo": "1",
-        "EventName": "Space Psychology",
-        "Club": "Aatmann",
-        "TIME": "2"
-       },
-       {
-        "SrNo": "2",
-        "EventName": "Interplanetary Company Council",
-        "Club": "Synergy",
-        "TIME": "2"
-       }
+    }
    ]

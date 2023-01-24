@@ -33,8 +33,8 @@ text-shadow: 0 0 5px rgba(253, 208, 23, 0.5),
   font-weight: 300;
   transition: font-size, 0.5s linear;
 }
-.btn1{
-  padding-left: 8em;
+.btn{
+  padding-left: 9em;
   padding-bottom: 1in;
   padding-top: 3em;
 }

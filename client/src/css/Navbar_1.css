@@ -27,7 +27,7 @@
     width:100%;
     text-align: center;
     transition: 0.4s;
-    z-index: 900;
+    z-index: 9000;
 }
 .hamburger{
     color:white;

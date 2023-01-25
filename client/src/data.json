@@ -1,20 +1,63 @@
 [
     {
+        "image_URL" : "fj",
+        "registration_URL" : "jas",
      "SrNo": "1",
      "EventName": "Space Psychology",
      "Club": "Aatmann",
      "TIME": "2"
     },
     {
+        "image_URL" : "fj",
+        "registration_URL" : "jas",
      "SrNo": "2",
      "EventName": "Interplanetary Company Council",
      "Club": "Synergy",
      "TIME": "2"
     },
     {
+        "image_URL" : "fj",
+        "registration_URL" : "jas",
         "SrNo": "3",
         "EventName": "Code War",
         "Club": "Encode",
         "TIME": "2"
-    }
+    },
+    {   "image_URL" : "fj",
+    "registration_URL" : "jas",
+        "SrNo": "1",
+        "EventName": "Space Psychology",
+        "Club": "Aatmann",
+        "TIME": "2"
+       },
+       {
+        "SrNo": "2",
+        "EventName": "Interplanetary Company Council",
+        "Club": "Synergy",
+        "TIME": "2"
+       },
+       {
+           "SrNo": "3",
+           "EventName": "Code War",
+           "Club": "Encode",
+           "TIME": "2"
+       },
+       {
+        "SrNo": "1",
+        "EventName": "Space Psychology",
+        "Club": "Aatmann",
+        "TIME": "2"
+       },
+       {
+        "SrNo": "2",
+        "EventName": "Interplanetary Company Council",
+        "Club": "Synergy",
+        "TIME": "2"
+       },
+       {
+           "SrNo": "3",
+           "EventName": "Code War",
+           "Club": "Encode",
+           "TIME": "2"
+       }
    ]

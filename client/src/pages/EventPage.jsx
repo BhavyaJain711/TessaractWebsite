@@ -22,7 +22,7 @@ const EventsPage = () => {
           {Events.map((Events) => (
                   <li>
                     <span href="" class="card">
-                      <img src="https://images.pexels.com/photos/2409038/pexels-photo-2409038.jpeg?auto=compress&cs=tinysrgb&w=600" class="card__image" alt="" />
+                      <img src="https://images.pexels.com/photos/2409038/pexels-photo-2409038.jpeg?auto=compress&cs=tinysrgb&w=600"  class="card__image" alt="image" />
                         <div class="card__overlay">
                           <div class="card__header">
                             <svg class="card__arc" xmlns="http://www.w3.org/2000/svg"><path /></svg>
@@ -33,7 +33,7 @@ const EventsPage = () => {
                             </div>
                           </div>
                           <div className="Button">
-                            <button className="Register_button">Register Now</button>
+                            <button className="Register_button"><a href={Events.registration}>Register Now</a></button>
                           </div>
                       </div>
                     </span>      

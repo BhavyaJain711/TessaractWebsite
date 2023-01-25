@@ -10,7 +10,7 @@ const Events = () => {
     const image_url = useState(Events.image_url);
     const registration_URL = useState(Events.registration_URL);
 
-    if(image_url && registration_URL){
+    if(image_url && registration_URL  ){
       
     }
 

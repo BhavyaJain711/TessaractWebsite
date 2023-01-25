@@ -35,7 +35,7 @@
   "venue": "S-Path"
  },
  {
-  "eventName": "Design thinking workshop(Ideation for Privacy\n& Security issues)\n",
+  "eventName": "Design thinking workshop(Ideation for Privacy& Security issues)",
   "club": "CSI X hackers meetup",
   "time": "4 to 7",
   "venue": "C 101"
@@ -46,11 +46,8 @@
   "time": "3 to 6",
   "venue": "D 008",
   "image": "https://drive.google.com/file/d/1L-6oBZMBKx2t3ZwP68TOqoKwZGeEbYUj/view",
-  "registration": "https://drive.google.com/drive/folders/1qxFJLSzrOlKTyuzMySUZsmo2bnHR_RJs\n"
+  "registration": "https://drive.google.com/drive/folders/1qxFJLSzrOlKTyuzMySUZsmo2bnHR_RJs"
  },
- null,
- null,
- null,
  {
   "eventName": "Quizzance with Mind Ripple",
   "club": "Mind-Ripple/Bulls&Bears",
@@ -68,7 +65,7 @@
   "registration": "https://docs.google.com/forms/d/1E4cIJbdwTeA9VIYqWVia2l-AiPOF20Xdqgd8PhxDbqk/viewform?edit_requested=true"
  },
  {
-  "eventName": "Ethical Hacking Workshop(Website Pentesting\nWorkshop):",
+  "eventName": "Ethical Hacking Workshop(Website Pentesting Workshop",
   "club": "CSI X hackers meetup",
   "time": "4 to 7",
   "venue": "C 004"
@@ -99,9 +96,8 @@
   "club": "Alchemy",
   "time": "4 to 8 PM",
   "image": "https://drive.google.com/file/d/1Zg7wl3FrLvFOFnlY_OPoG5facHQQx3Sn/view",
-  "registration": "https://forms.gle/zTqGqmEbFL7jdmtR8\n\n"
+  "registration": "https://forms.gle/zTqGqmEbFL7jdmtR8"
  },
- null,
  {
   "eventName": "Event Name",
   "club": "Club Name",
@@ -137,7 +133,7 @@
   "time": "7.30 onwards",
   "venue": "Football Ground",
   "image": "https://drive.google.com/file/d/13-nijOBsB5_tA_rz6fAYCYfpniPuWjNY/view",
-  "registration": "https://drive.google.com/drive/folders/1qxFJLSzrOlKTyuzMySUZsmo2bnHR_RJs\n"
+  "registration": "https://drive.google.com/drive/folders/1qxFJLSzrOlKTyuzMySUZsmo2bnHR_RJs"
  },
  {
   "eventName": "Tech Talk",
@@ -183,7 +179,7 @@
   "venue": "Auditorium"
  },
  {
-  "eventName": "EV cars workshop by iACE \n\n",
+  "eventName": "EV cars workshop by iACE",
   "club": "iACE",
   "time": "5:30 onwards",
   "venue": "S path lawn"
@@ -199,7 +195,7 @@
   "venue": "open ground (b block_"
  },
  {
-  "eventName": "Electrical Workshop\n\n",
+  "eventName": "Electrical Workshop",
   "club": "Snt",
   "time": 2,
   "venue": "c 009"
@@ -269,7 +265,7 @@
   "time": "6:30 onwards",
   "venue": "Football ground",
   "image": "https://drive.google.com/file/d/13-nijOBsB5_tA_rz6fAYCYfpniPuWjNY/view",
-  "registration": "https://drive.google.com/drive/folders/1qxFJLSzrOlKTyuzMySUZsmo2bnHR_RJs\n"
+  "registration": "https://drive.google.com/drive/folders/1qxFJLSzrOlKTyuzMySUZsmo2bnHR_RJs"
  },
  {
   "eventName": "Splitwise (FD)",
@@ -410,15 +406,15 @@
   "time": "9 to 6",
   "venue": "D block foyer",
   "image": "https://drive.google.com/file/d/1Ho95omiEHEayIIf2mUgBpeWpDmrRpgBH/view",
-  "registration": "https://drive.google.com/drive/folders/1qxFJLSzrOlKTyuzMySUZsmo2bnHR_RJs\n"
+  "registration": "https://drive.google.com/drive/folders/1qxFJLSzrOlKTyuzMySUZsmo2bnHR_RJs"
  },
  {
-  "eventName": "Telescope making \nworkshop",
+  "eventName": "Telescope making workshop",
   "club": "Brahmand",
   "time": "2 to 5",
   "venue": "D-007",
   "image": "https://drive.google.com/file/d/1II-JvPH1AMAZv32TDDxGlDNkJt5Try0X/view",
-  "registration": "https://drive.google.com/drive/folders/1qxFJLSzrOlKTyuzMySUZsmo2bnHR_RJs\n"
+  "registration": "https://drive.google.com/drive/folders/1qxFJLSzrOlKTyuzMySUZsmo2bnHR_RJs"
  },
  {
   "eventName": "Codewar",
@@ -520,6 +516,6 @@
   "time": "9 to 6",
   "venue": "S path lawn",
   "image": "https://drive.google.com/file/d/1Y4fdrPzg37owOEksl2_s12RmRBxy2RME/view",
-  "registration": "https://forms.gle/hKCSk3ddgPH4wGvr5\n\n\n"
+  "registration": "https://forms.gle/hKCSk3ddgPH4wGvr5"
  }
 ]

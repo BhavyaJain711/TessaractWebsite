@@ -2,9 +2,8 @@ import { useState } from 'react';
 import Herosection from '../components/Herosection'
 import Secondpage from '../components/Secondpage'
 import Events from "../components/Events";
-import About from "../components/About";
-import Background from "../components/Particles";
-import Caraousel from "../components/Carousel";
+// import About from "../components/About";
+// import Caraousel from "../components/Carousel";
 import PopUp from "../components/Popup";
 function Home() {
     const [gallery,setGallery]= useState(false);
@@ -15,7 +14,7 @@ function Home() {
     <>
     <Herosection />
   <Secondpage />
-  <Background />
+  {/* <Background /> */}
   {/* <Caraousel style={{position:'relative'}}/> */}
   <PopUp  func={toggleGallery}/>
   <Events />

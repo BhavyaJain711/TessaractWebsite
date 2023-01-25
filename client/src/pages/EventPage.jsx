@@ -1,12 +1,12 @@
 import React, {useState} from "react";
 import '../css/Events.css';
 import img from '../images/edm.jpg';
-import data from '../data.json';
+import data from '../FinalSNTdata.json';
 
 const EventPage = () => {
 
     // const datas = JSON.parse(data);
-    const [Events, setEvents] = useState(data);
+    const Events=data;
 
     return ( 
         <>
@@ -21,9 +21,9 @@ const EventPage = () => {
                 <div class="card__header">
                   <svg class="card__arc" xmlns="http://www.w3.org/2000/svg"><path /></svg>
                   <div class="card__header-text">
-                    <h3 class="card__Name">{Events.EventName}</h3>  
-                    <span class="card__Club">{Events.Club}</span>          
-                    <span class="card__Time">{Events.TIME}</span>
+                    <h3 class="card__Name">{Events.eventName}</h3>  
+                    <span class="card__Club">{Events.club}</span>          
+                    <span class="card__Time">{Events.time}</span>
                   </div>
                 </div>
                 <div className="Button">

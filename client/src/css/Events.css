@@ -2,7 +2,7 @@
   background-color: rgb(0, 0, 0);
 }
 :root {
-  --surface-color: rgb(91, 85, 85);
+  --surface-color: rgba(255,255,255,0.6);
   --curve: 40;
   border-color: #6A515E;
 }
@@ -97,7 +97,7 @@ body {
   font-size: 2em;
   font-weight: 900;
   margin: 0 0 .3em;
-  color: #a6a6a6;
+  color: black;
 }
 
 .card__Club {
@@ -109,7 +109,7 @@ body {
 
 .card__Time {
   font-size: 2.3em;
-  color: #928089;
+  color: black;
 }
 
 .Register_button{

@@ -1,63 +1,35 @@
 [
     {
-        "image_URL" : "fj",
-        "registration_URL" : "jas",
-     "SrNo": "1",
-     "EventName": "Space Psychology",
-     "Club": "Aatmann",
-     "TIME": "2"
+     "eventName": "BEHIND THE SCENES WITH MATHEMATICS",
+     "club": "SOM",
+     "time": "4 to 7",
+     "venue": "C 004",
+     "image": "https://images.pexels.com/photos/1252873/pexels-photo-1252873.jpeg?auto=compress&cs=tinysrgb&w=600",
+     "registration": "https://docs.google.com/forms/d/197Tr0lqgmuk6utlVfHwC83_Us9NawBC-AUzOYOK4mgs/edit?ts=63d0cfe1"
     },
     {
-        "image_URL" : "fj",
-        "registration_URL" : "jas",
-     "SrNo": "2",
-     "EventName": "Interplanetary Company Council",
-     "Club": "Synergy",
-     "TIME": "2"
-    },
-    {
-        "image_URL" : "fj",
-        "registration_URL" : "jas",
-        "SrNo": "3",
-        "EventName": "Code War",
-        "Club": "Encode",
-        "TIME": "2"
-    },
-    {   "image_URL" : "fj",
-    "registration_URL" : "jas",
-        "SrNo": "1",
-        "EventName": "Space Psychology",
-        "Club": "Aatmann",
-        "TIME": "2"
-       },
-       {
-        "SrNo": "2",
-        "EventName": "Interplanetary Company Council",
-        "Club": "Synergy",
-        "TIME": "2"
-       },
-       {
-           "SrNo": "3",
-           "EventName": "Code War",
-           "Club": "Encode",
-           "TIME": "2"
-       },
-       {
-        "SrNo": "1",
-        "EventName": "Space Psychology",
-        "Club": "Aatmann",
-        "TIME": "2"
-       },
-       {
-        "SrNo": "2",
-        "EventName": "Interplanetary Company Council",
-        "Club": "Synergy",
-        "TIME": "2"
-       },
-       {
-           "SrNo": "3",
-           "EventName": "Code War",
-           "Club": "Encode",
-           "TIME": "2"
-       }
+     "eventName": "Valorant Tournament (Online)",
+     "club": "Respawn",
+     "time": "5 to 8",
+     "venue": "D 003",
+     "image": "https://images.pexels.com/photos/262662/pexels-photo-262662.jpeg?auto=compress&cs=tinysrgb&w=600",
+     "registration": "https://docs.google.com/forms/d/1vEdPfimqqKJDr5u2RXSYM63xfG9KlB2rhztMjHfx3Rs/viewform?edit_requested=true"
+    }
+    ,
+ {
+  "eventName": "Astro Hunt",
+  "club": "Brahmand",
+  "time": "3 to 6",
+  "venue": "D 008",
+  "image": "https://images.pexels.com/photos/2085998/pexels-photo-2085998.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "registration": "https://drive.google.com/drive/folders/1qxFJLSzrOlKTyuzMySUZsmo2bnHR_RJs"
+ },
+ {
+  "eventName": "Quizzance with Mind Ripple",
+  "club": "Mind-Ripple/Bulls&Bears",
+  "time": "4 to 7",
+  "venue": "C 002",
+  "image": "https://images.pexels.com/photos/110854/pexels-photo-110854.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "registration": "https://forms.gle/KG55HARkVCxjvWuG9"
+ }
    ]

@@ -245,7 +245,7 @@ script{
 .text-img{
     position: absolute;
     transform: translateY(70%);
-    transform: translateZ(50%);
+    transform: translateZ(60%);
 }
   }
   @media(max-width:1150px) {

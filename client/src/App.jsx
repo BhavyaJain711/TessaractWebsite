@@ -10,7 +10,7 @@ import Events from "./components/Events";
 import Secondpage from './components/Secondpage.js';
 // import About from "./components/About";
 import { BrowserRouter,Route,Routes } from "react-router-dom";
-import Background from "./components/Particles";
+// import Background from "./components/Particles";
 import EventPage from "./pages/EventPage";
 
 export default function App() {

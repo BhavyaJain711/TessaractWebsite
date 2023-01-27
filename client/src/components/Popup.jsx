@@ -11,22 +11,37 @@ const PopUp = (props) => {
     }
     const galleryImages = [
         {
-          img: 'https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1'
+          img: 'https://drive.google.com/uc?id=1mOFSx5kTeAkv5dESmJE-B5j-RQQbVU6v'
         },
         {
-          img: "https://images.pexels.com/photos/3861458/pexels-photo-3861458.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+          img: "https://drive.google.com/uc?id=1XwSEDvfS6B93CJvWGC0UPcdwTr0Mfe4h"
         },
         {
-          img: "https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+          img: "https://drive.google.com/uc?id=1XDmjWJOSPnvcAyNW_0M6icjR3ulZz2gW"
         },
         {
-          img: "https://images.pexels.com/photos/1194713/pexels-photo-1194713.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+          img: "https://drive.google.com/uc?id=1NM-dV4j-ateLsTQMZYqxZkBWde39lKx8"
         },
         {
-          img: "https://images.pexels.com/photos/39284/macbook-apple-imac-computer-39284.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+          img: "https://drive.google.com/uc?id=1NPXQzH2eRiUmm18vFpa57k2srkANPCxC"
         },
         {
-          img: "https://images.pexels.com/photos/1712/sunglasses-apple-iphone-desk.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+          img: "https://drive.google.com/uc?id=1dB-b18sjj-r48_lDjNt7sSSepfW3FvNP"
+        },
+        {
+          img:"https://drive.google.com/uc?id=1KcAIlTcUuM6gb4O-QeOgVzQeu3xlyNgk"
+        },
+        {
+          img:"https://drive.google.com/uc?id=1nNVq5Ed5AeVdhRM81yZmDdfaf1MIPeIm"
+        },
+        {
+          img:"https://drive.google.com/uc?id=1nqNLujY6AIj-FXbw68YqsCVMcY3S8Yr8"
+        },
+        {
+          img:"https://drive.google.com/uc?id=10TEcs-V2NTDcZci0POcz8WyuNzDCYssE"
+        },
+        {
+          img:"https://drive.google.com/uc?id=11yEP8YUS0rDGY5Wd94_LHK3luAQSK0GL"
         }
       ]
 

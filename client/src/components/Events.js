@@ -2,18 +2,18 @@ import React, {useState} from "react";
 import '../css/Events.css';
 import img from '../images/edm.jpg';
 import data from '../data.json';
+import { Button } from "react-bootstrap";
+import { useNavigate } from "react-router";
 
 const Events = () => {
-
+  const navigate = useNavigate();
+  const navigateEvents=()=>{
+    navigate('/events');
+  }
     // const datas = JSON.parse(data);
     const [Events, setEvents] = useState(data);
     const image_url = useState(Events.image_url);
     const registration_URL = useState(Events.registration_URL);
-
-    if(image_url && registration_URL  ){
-      
-    }
-
     return ( 
         <>
         <div className="Event">
@@ -46,8 +46,13 @@ const Events = () => {
                   </li>
                 ))}
               </ul>
+
             </div>  
-          </div>
+          </div> 
+          <center>
+
+              <Button onClick={navigateEvents} style={{padding:"10px",marginBottom:"20px",fontSize:"1.5rem"}}  size='lg' variant='dark' >Show all Events...</Button>
+          </center>
         </>
      );
 }

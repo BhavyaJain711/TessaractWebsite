@@ -24,7 +24,7 @@ function Navbar(){
              <ul className='nav-menu'>
                <li className='nav-item'><a href="/">Home</a></li>
                {/* <li className='nav-item'><a href='#edm'>EDM</a></li> */}
-               <li className='nav-item'><a href='#'>Gallery</a></li>
+               <li className='nav-item'><a href='#gallery'>Gallery</a></li>
                <li className='nav-item'><a href='/events'>Events</a></li>
                <li className='nav-item'><a href='#'>Schedule</a></li>
                <li className='nav-item'><a href='#about'>About</a></li>

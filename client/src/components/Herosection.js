@@ -20,7 +20,7 @@ const Herosection = () => {
                     </div>
                     <div className="right">
                         <p className="back-right">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Possimus autem earum aliquid fugiat? Fugit, quis?
+                        The annual Science and Technical Fest of PDEU
                         </p>
                     </div>
                 </div>

@@ -1,20 +1,49 @@
 [
-    {
-     "SrNo": "1",
-     "EventName": "Space Psychology",
-     "Club": "Aatmann",
-     "TIME": "2"
-    },
-    {
-     "SrNo": "2",
-     "EventName": "Interplanetary Company Council",
-     "Club": "Synergy",
-     "TIME": "2"
-    },
-    {
-        "SrNo": "3",
-        "EventName": "Code War",
-        "Club": "Encode",
-        "TIME": "2"
-    }
-   ]
+  {
+    "eventName": "BEHIND THE SCENES WITH MATHEMATICS",
+    "club": "SOM",
+    "time": "4 to 7",
+    "venue": "C 004",
+    "image": "https://drive.google.com/uc?id=1LzpLxi-WZDKy6iOUKCspDY9_I_tw2xIe",
+    "registration": "https://docs.google.com/forms/d/197Tr0lqgmuk6utlVfHwC83_Us9NawBC-AUzOYOK4mgs/edit?ts=63d0cfe1"
+   },
+   {
+    "eventName": "Valorant Tournament (Online)",
+    "club": "Respawn",
+    "time": "5 to 8",
+    "venue": "D 003",
+    "image": "https://drive.google.com/uc?id=1ANwiBRNWIIknOu7wx_RaQ_Nw7gwavLcY",
+    "registration": "https://docs.google.com/forms/d/1vEdPfimqqKJDr5u2RXSYM63xfG9KlB2rhztMjHfx3Rs"
+   },{
+    "eventName": "Astro Hunt",
+    "club": "Brahmand",
+    "time": "3 to 6",
+    "venue": "D 008",
+    "image": "https://drive.google.com/uc?id=1L-6oBZMBKx2t3ZwP68TOqoKwZGeEbYUj",
+    "registration": "https://drive.google.com/drive/folders/1qxFJLSzrOlKTyuzMySUZsmo2bnHR_RJs"
+   },
+   {
+    "eventName": "Quizzance with Mind Ripple",
+    "club": "Mind-Ripple/Bulls&Bears",
+    "time": "4 to 7",
+    "venue": "C 002",
+    "image": "https://drive.google.com/uc?id=1dwAklwYHiyLPvvDACOtBjtmTrsUxysMi",
+    "registration": "https://forms.gle/KG55HARkVCxjvWuG9"
+   },
+   {
+    "eventName": "FIFA Tournament",
+    "club": "Respawn",
+    "time": "5 to 8",
+    "venue": "D 004",
+    "image": "https://drive.google.com/uc?id=1NRLhyw1GxfX7MffeStms6gt2mAQ-p56C",
+    "registration": "https://docs.google.com/forms/d/1E4cIJbdwTeA9VIYqWVia2l-AiPOF20Xdqgd8PhxDbqk"
+   },
+   {
+    "eventName": "Rocket Making workshop",
+    "club": "Brahmand x Nucleus x Apogee3",
+    "time": "12 to 4 PM",
+    "venue": "D 204",
+    "image": "https://drive.google.com/uc?id=1Ntsj3YuOpLQRgorTcolHsFhMbkYAyxra",
+    "registration": "https://forms.gle/LEKiMUpLpmr6xx3w6"
+   }
+]

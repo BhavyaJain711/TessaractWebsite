@@ -15,12 +15,14 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
+    z-index: -10;
 }
 .main-head .subheading{
     margin-top:40% ;
     font-size:30px;
     font-weight: 300;
     color:rgb(138, 137, 135);
+    z-index: -10;
 }
 .main-head .mainhead{
     font-size: 92px;
@@ -74,11 +76,13 @@ body{
     font-size:30px;
     font-weight: 300;
     color:rgb(138, 137, 135);
+    z-index: -10;
 }
 .main-head .mainhead{
     font-size: 92px;
     font-weight: 500;
     color:rgb(251, 220, 183);
+    z-index: -10;
 }
  
 .main-head .tptext{

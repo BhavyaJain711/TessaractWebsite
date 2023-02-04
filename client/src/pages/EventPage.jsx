@@ -1,7 +1,7 @@
 import React, {useState} from "react";
 import '../css/Events.css';
 import img from '../images/edm.jpg';
-import data from '../FinalSNTdata.json';
+import data from '../tessF.json';
 
 const EventsPage = () => {
 

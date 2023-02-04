@@ -1,0 +1,657 @@
+[
+    {
+     "club": "CSI X hackers meetup",
+     "event": "Design thinking workshop(Ideation for Privacy \n&amp; Security issues)",
+     "Mode": "Offline",
+     "time": "4PM to 7PM",
+     "venue": "C 101",
+     " Coordinator": "Param Ajwaliya / Rathod Shahil"
+    },
+    {
+     "club": "Synergy",
+     "event": "Interplanetary Company Council",
+     "Mode": "Offline",
+     "time": "4PM to 7PM",
+     "venue": "D 007",
+     " Coordinator": "Kais Awadiya/ Shubhra",
+     "image": "https://drive.google.com/uc?id=1CAq2tT9loHwReo8Gg3RaMX2qlYK0FHzx",
+     "registration": "https://forms.gle/zV6e5vBDBCGaSgaS7"
+    },
+    {
+     "club": "SOM",
+     "event": "BEHIND THE SCENES WITH MATHEMATICS",
+     "Mode": "Offline",
+     "time": "4PM to 7PM",
+     "venue": "C 004",
+     " Coordinator": "Isha Mehta",
+     "image": "https://drive.google.com/uc?id=1LzpLxi-WZDKy6iOUKCspDY9_I_tw2xIe",
+     "registration": "https://docs.google.com/forms/d/18BA4rwI729GAXUd9A7KcaYZ8AHVr0WbSay5TybQberE/viewform?ts=63d0d01b&amp;edit_requested=true"
+    },
+    {
+     "club": "Respawn",
+     "event": "Valorant Tournament (Online)",
+     "Mode": "Online",
+     "time": "5PM to 8PM",
+     "venue": "Online",
+     " Coordinator": "Kalash Bhat/Indrajeet patel",
+     "image": "https://drive.google.com/uc?id=1ANwiBRNWIIknOu7wx_RaQ_Nw7gwavLcY",
+     "registration": "https://docs.google.com/forms/d/1vEdPfimqqKJDr5u2RXSYM63xfG9KlB2rhztMjHfx3Rs/viewform?edit_requested=true"
+    },
+    {
+     "club": "Mind-Ripple/Bulls&amp;Bears",
+     "event": "Quizzance with Mind Ripple",
+     "Mode": "Offline",
+     "time": "4PM to 7PM",
+     "venue": "C-002",
+     " Coordinator": "Tushar / Harsh Patadia",
+     "image": "https://drive.google.com/uc?id=1dwAklwYHiyLPvvDACOtBjtmTrsUxysMi"
+    },
+    {
+     "club": "CSI X hackers meetup",
+     "event": "Ethical Hacking Workshop(Website Pentesting\nWorkshop):",
+     "Mode": "Offline",
+     "time": "4PM to 7PM",
+     "venue": "C-004",
+     " Coordinator": "Param Ajwaliya / Rathod Shahil"
+    },
+    {
+     "club": "cube -i-cult",
+     "event": "sync and solve",
+     "Mode": "Offline",
+     "time": "4PM to 7PM",
+     "venue": "C 102",
+     " Coordinator": "Kushal"
+    },
+    {
+     "club": "Alchemy",
+     "event": "Crack out Add ons",
+     "Mode": "Offline",
+     "time": "4PM to 7PM",
+     "venue": "C-108",
+     "Remarks": "chemistry lab",
+     " Coordinator": "Richa Parmar / Vanshika Chavda",
+     "image": "https://drive.google.com/uc?id=1Zg7wl3FrLvFOFnlY_OPoG5facHQQx3Sn",
+     "registration": "https://forms.gle/zTqGqmEbFL7jdmtR8"
+    },
+    {
+     "club": "Synergy",
+     "event": "Brands Bonanza",
+     "Mode": "Offline",
+     "time": "5PM to 7PM",
+     "venue": "C-101",
+     " Coordinator": "Kais Awadiya/ Shubhra",
+     "image": "https://drive.google.com/uc?id=1Z-46VNGJ1UMQvstZG98SrskD9FQxJ2fM",
+     "registration": "https://forms.gle/BzsGMQFWer55YqSq9"
+    },
+    {
+     "club": "Respawn",
+     "event": "FIFA Tournament",
+     "Mode": "Offline",
+     "time": "5PM to 8PM",
+     "venue": "D-004",
+     " Coordinator": "Kalash Bhat/Indrajeet patel",
+     "image": "https://drive.google.com/uc?id=1NRLhyw1GxfX7MffeStms6gt2mAQ-p56C",
+     "registration": "https://docs.google.com/forms/d/1E4cIJbdwTeA9VIYqWVia2l-AiPOF20Xdqgd8PhxDbqk/viewform?edit_requested=true"
+    },
+    {
+     "club": "Cretus",
+     "event": "Robo soccer",
+     "Mode": "Offline",
+     "time": "9AM to 6PM",
+     "venue": "D block foyer",
+     " Coordinator": "Arya patel / Rudra Patel",
+     "registration": "https://forms.gle/oHxXTGMMr4ppJmEVA"
+    },
+    {
+     "club": "Mind-Ripple",
+     "event": "Matrix Breakout",
+     "Mode": "Offline",
+     "time": "9AM to 6PM",
+     "venue": "S path lawn",
+     " Coordinator": "Vivaan Srivastav / Ishika Raiyani"
+    },
+    {
+     "club": "Brahmand",
+     "event": "Planatarium",
+     "Mode": "Offline",
+     "time": "9AM to 6PM",
+     "venue": "D block foyer",
+     " Coordinator": "Vaishnavi/Het/Nivid/Vrund patel",
+     "image": "https://drive.google.com/uc?id=1Ho95omiEHEayIIf2mUgBpeWpDmrRpgBH"
+    },
+    {
+     "club": "Science and Technical committee",
+     "event": "CSR EVENT: women self defence class",
+     "Mode": "Offline",
+     "time": "10AM to 12PM",
+     "venue": "B block ground",
+     " Coordinator": "Dinky Unadkat / Isha Mehta"
+    },
+    {
+     "club": "Nucleus",
+     "event": "Cyanotype Printing Workshop",
+     "Mode": "Offline",
+     "time": "12PM to 4PM",
+     "venue": "D-203",
+     " Coordinator": "Charvi Shastri / Aakarsh Garg",
+     "image": "https://drive.google.com/uc?id=188LEqwtlqSr6DvPmvBpk6I-gN3n5Mi0Z",
+     "registration": "https://forms.gle/XdPyJui6t4YtrZG66"
+    },
+    {
+     "club": "Science and technical committee",
+     "event": "EV cars workshop by iACE",
+     "Mode": "Offline",
+     "time": "12PM to 2PM",
+     "venue": "IACE",
+     " Coordinator": "Prayag patel / Pathik Patel"
+    },
+    {
+     "club": "VGA",
+     "event": "Lights Camera Action",
+     "Mode": "Offline",
+     "time": "12PM to 6PM",
+     "venue": "PA room",
+     " Coordinator": "Aakash Patankar"
+    },
+    {
+     "club": "Alchemy",
+     "event": "Parla Tech 4.0",
+     "Mode": "Offline",
+     "time": "1PM to 3PM",
+     "venue": "E-001",
+     " Coordinator": "Richa Parmar / Vanshika Chavda",
+     "image": "https://drive.google.com/uc?id=1KxLC7-Z-qdG9G-54rvGmWro_iP9vfw3o",
+     "registration": "https://docs.google.com/forms/d/e/1FAIpQLSdKqOHkRTgIhTk4Iq8KPkkXnxmIY1gAtxlFv1xPCTchP--FeA/viewform"
+    },
+    {
+     "club": "Science and Technical committee",
+     "event": "Additive Manufacturing Workshop",
+     "Mode": "Offline",
+     "time": "2PM to 4PM",
+     "Remarks": "@logs 3D printing lab",
+     " Coordinator": "Vaishnavi/Het/Nivid/Vrund patel"
+    },
+    {
+     "club": "Science and Technical committee",
+     "event": "CO2 capture technology demonstration",
+     "Mode": "Offline",
+     "time": "2PM to 4PM",
+     "venue": "C 013",
+     "Remarks": "chemistry lab",
+     " Coordinator": "Pathik Patel"
+    },
+    {
+     "club": "Network",
+     "event": "Research it Up",
+     "Mode": "Offline",
+     "time": "2PM to 4PM",
+     "venue": "D-205",
+     " Coordinator": "Yash arya",
+     "image": "https://drive.google.com/uc?id=1OFmNN2ufsvbfkSFxaU6rQpCNuo2XpkCW",
+     "registration": "https://docs.google.com/forms/d/e/1FAIpQLSf0CNA3ZftCiG4NFsICW4lOJbb_O3r_r0mx_kvxgwjqmDTDPA/viewform"
+    },
+    {
+     "club": "Encode",
+     "event": "Capture the Flag",
+     "Mode": "Offline",
+     "time": "2PM to 5PM",
+     "Remarks": "@logs 3 computer labs",
+     " Coordinator": "Mitansh /Aanchal singh/ Shruti Patel",
+     "registration": "https://forms.gle/4dWXcff6Erkip46d6"
+    },
+    {
+     "club": "Symmetry",
+     "event": "Stop motion",
+     "Mode": "Offline",
+     "time": "3PM to 5PM",
+     "venue": "C 103",
+     " Coordinator": "Dinky Unadkat",
+     "image": "https://drive.google.com/uc?id=1Ork-53KUrTurL7gAy4EleAnc8ucQjM6w",
+     "registration": "https://docs.google.com/forms/d/e/1FAIpQLScH9OWbdY3hdfM4T2MfSnvPAfiCB1dvq5Hc5GLVnCKTwUQEug/viewform"
+    },
+    {
+     "club": "Bulls And Bears",
+     "event": "Bazaar 4.0",
+     "Mode": "Offline",
+     "time": "4PM to 5PM",
+     "venue": "D-206",
+     " Coordinator": "Tushar / Harsh Patadia",
+     "image": "https://drive.google.com/uc?id=16FXpUSUHBIYLArYAhxA4ySYEBVK61KdD",
+     "registration": "https://unstop.com/competition/bazaar-40-stock-market-trading-competition-pandit-deendayal-energy-university-gandhinagar-587680"
+    },
+    {
+     "club": "Sorriso",
+     "event": "The tales by light workshop",
+     "Mode": "Offline",
+     "time": "4PM to 6PM",
+     "venue": "D 007",
+     " Coordinator": "Richa Parmar / Vanshika Chavda",
+     "image": "https://drive.google.com/uc?id=1bgFCMr0w0WE2Ymz3lwwgQxf-MGIPjUOc",
+     "registration": "https://docs.google.com/forms/d/e/1FAIpQLSdBsf-ABG5IQkkL8r0IbvAWm0zDTy0kepBUco73yn3pJe3TPw/viewform?usp=sf_link"
+    },
+    {
+     "club": "SOM",
+     "event": "MATHWHIZ",
+     "Mode": "Offline",
+     "time": "4PM to 7PM",
+     "venue": "D-002",
+     " Coordinator": "Isha Mehta",
+     "image": "https://drive.google.com/uc?id=1r8f0W91Se8lZqQ-QfTzZSzR-mYPJAND1",
+     "registration": "https://docs.google.com/forms/d/197Tr0lqgmuk6utlVfHwC83_Us9NawBC-AUzOYOK4mgs/edit?ts=63d0cfe1"
+    },
+    {
+     "club": "the inspired room",
+     "event": "Event redesigning cosmos",
+     "Mode": "Offline",
+     "time": "5PM to 7PM",
+     "venue": "E 005",
+     " Coordinator": "Sneha Meghani",
+     "image": "https://drive.google.com/uc?id=13D36mqwyK9vG-Sm21CeUgSpNJT7In5KD",
+     "registration": "https://docs.google.com/forms/d/e/1FAIpQLSe3VJF4GChN0lctyuZNPI7shMP-z9wpyIUXcsfvPxJp-wqSDg/viewform"
+    },
+    {
+     "club": "Synergy",
+     "event": "Mission Mars",
+     "Mode": "Offline",
+     "time": "5PM to 7PM",
+     "venue": "D 101",
+     " Coordinator": "Kais Awadiya/ Shubhra",
+     "image": "https://drive.google.com/uc?id=1q8yj3BMKrW7zxp64i1rr8pv0oja12Buu",
+     "registration": "https://forms.gle/o3XGfnScFj8PfGqL7"
+    },
+    {
+     "club": "Science and Technical committee",
+     "event": "Tess fair",
+     "Mode": "Offline",
+     "time": "5:30PM onwards",
+     "venue": "S path lawn",
+     " Coordinator": "Pathik / Prayag / Indrajeet / Ritika / Dinky"
+    },
+    {
+     "club": "Sorriso",
+     "event": "Sorriso Photobooth",
+     "Mode": "Offline",
+     "time": "5:30PM onwards",
+     "venue": "S path lawn",
+     " Coordinator": "Richa Parmar / Vanshika Chavda"
+    },
+    {
+     "club": "Brahmand",
+     "event": "night sky gazing",
+     "Mode": "Offline",
+     "time": "7:30PM onwards",
+     "venue": "Cricket Ground",
+     " Coordinator": "Vaishnavi/Het/Nivid/Vrund patel",
+     "image": "https://drive.google.com/uc?id=13-nijOBsB5_tA_rz6fAYCYfpniPuWjNY"
+    },
+    {
+     "club": "Cretus",
+     "event": "Robo Soccer",
+     "Mode": "Offline",
+     "time": "9AM to 6PM",
+     "venue": "D block foyer",
+     " Coordinator": "Arya patel / Rudra Patel",
+     "image": "https://drive.google.com/uc?id=14LayHUhP7N2mIkzU8XBNjendH5GE28Fe",
+     "registration": "https://docs.google.com/forms/d/e/1FAIpQLSdtpQBuGiHNjYfoswl7_mfhnIT41Z41k33C6tzDF0NTN8QHBA/viewform"
+    },
+    {
+     "club": "Encode",
+     "event": "Ideathon",
+     "Mode": "Offline",
+     "time": "9AM to 6PM",
+     "venue": "BLT-1",
+     " Coordinator": "Mitansh /Aanchal singh/ Shruti Patel",
+     "image": "https://drive.google.com/uc?id=125PCVqooE4mvG8D-RAY4-Qz-SWOwTyKc",
+     "registration": "https://docs.google.com/forms/d/1Ly0n86c7Q1FuoDExSlCLb-a8JaY8Nxjd1-tA7XHNxPw/viewform?ts=639a1553&amp;edit_requested=true"
+    },
+    {
+     "club": "SOM",
+     "event": "MAZE OF CALCULUS",
+     "Mode": "Offline",
+     "time": "9AM to 6PM",
+     "venue": "E block foyer",
+     " Coordinator": "Isha Mehta",
+     "image": "https://drive.google.com/uc?id=1KTNk1xZ7jlNksXz9Ro5uWvbuAYhxFTkz",
+     "registration": "https://docs.google.com/forms/d/1H-iAFu6C_0tLCCGiuRq-NvAIJ6MZxotiXW_SwWWyncc/viewform?ts=63d0cfff&amp;edit_requested=true"
+    },
+    {
+     "club": "Anirveda",
+     "event": "Ambush Marketing",
+     "Mode": "Offline",
+     "time": "9AM to 6PM",
+     "venue": "D-007",
+     " Coordinator": "Ritika Adhiya / Rutvi Shah",
+     "image": "https://www.canva.com/design/DAFZCbmP9gw/CvgnfnnK0HY2JTM3H5s2gQ/edit?utm_content=DAFZCbmP9gw&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton",
+     "registration": "https://forms.gle/Jx6nQ9bo1mvPt5KZ7"
+    },
+    {
+     "club": "Alchemy",
+     "event": "Thirsty Concrete",
+     "Mode": "Offline",
+     "time": "9AM to 6PM",
+     "venue": "S path lawn",
+     " Coordinator": "Richa Parmar / Vanshika Chavda",
+     "image": "https://drive.google.com/uc?id=1Y4fdrPzg37owOEksl2_s12RmRBxy2RME",
+     "registration": "https://docs.google.com/forms/d/e/1FAIpQLSdgKpwimIGyBLXgDve6SqH8_lEyNxmZYqhQseX39AyoliOJNA/viewform"
+    },
+    {
+     "club": "Geeks to Peaks",
+     "event": "Vaccume advanture",
+     "Mode": "Offline",
+     "time": "9AM to 6PM",
+     "venue": "E004",
+     " Coordinator": "Param Ajwaliya / Rathod Shahil"
+    },
+    {
+     "club": "cube-i-cult",
+     "event": "Cubing open 2.0",
+     "Mode": "Offline",
+     "time": "9AM to 6PM",
+     "venue": "BLT-2",
+     " Coordinator": "Kushal",
+     "image": "https://drive.google.com/uc?id=171Ix1YC6gzW9CwbqiKGzpzu-uwnAePYL"
+    },
+    {
+     "club": "Mind-Ripple",
+     "event": "Matrix Breakout",
+     "Mode": "Offline",
+     "time": "9AM to 6PM",
+     "venue": "S path lawn",
+     " Coordinator": "Vivaan Srivastav / Ishika Raiyani",
+     "image": "https://drive.google.com/uc?id=1Hiuf12FsQZBasOSP9PGIjtfHzFA04ziw"
+    },
+    {
+     "club": "Envirofreaks",
+     "event": "Trash o mania",
+     "Mode": "Offline",
+     "time": "10AM to 5PM",
+     "venue": "C 001",
+     " Coordinator": "Sneha Meghani",
+     "image": "https://drive.google.com/uc?id=1N3yhGr8_kA3SNqU0L5MAURPCqgUmSf7s",
+     "registration": "https://docs.google.com/forms/d/e/1FAIpQLSc7zOb9wAIQknn7ZXmNgXXHBCt5NLTJZjfeVuqaXMRJcbyQjw/viewform"
+    },
+    {
+     "club": "Brahmand",
+     "event": "Telescope making workshop",
+     "Mode": "Offline",
+     "time": "9AM to 12PM",
+     "venue": "D 005",
+     " Coordinator": "Vaishnavi/Het/Nivid/Vrund patel",
+     "image": "https://drive.google.com/uc?id=1II-JvPH1AMAZv32TDDxGlDNkJt5Try0X"
+    },
+    {
+     "club": "Network",
+     "event": "Interview Ready",
+     "Mode": "Offline",
+     "time": "10AM to 12PM",
+     "venue": "D 001",
+     " Coordinator": "Yash arya",
+     "image": "https://drive.google.com/uc?id=1ziwa5dp2HIhFNpDTl_c25bqtm1rwMj3V",
+     "registration": "https://docs.google.com/forms/d/e/1FAIpQLScrwSXDNpHqDUx21QhHN__LeE_JRu-IuXTMUfKD-tlBLJv_Rw/viewform"
+    },
+    {
+     "club": "Science and Technical committee",
+     "event": "Glinder Designing Competition",
+     "Mode": "Offline",
+     "time": "10AM to 1PM",
+     "venue": "D003",
+     " Coordinator": "Dinky Unadkat"
+    },
+    {
+     "club": "ACM",
+     "event": "Space Research and basics of navigation System",
+     "Mode": "Offine/online",
+     "time": "1PM TO 3PM",
+     "venue": "Auditorium"
+    },
+    {
+     "club": "Avionics",
+     "event": "RC airplane making workshop",
+     "Mode": "Offline",
+     "time": "2PM to 6PM",
+     "venue": "D-004",
+     " Coordinator": "Rutul / Dev Shah",
+     "image": "https://drive.google.com/uc?id=1j9LPEK06Q5tySpFl1AVSk1UHBq84ED69",
+     "registration": "https://docs.google.com/forms/d/e/1FAIpQLSeRzfl1iCoi1eEsh0kyNcN0lyZ026TVCxVX6TC54FhRQgyZBA/viewform"
+    },
+    {
+     "club": "Geeks to peaks",
+     "event": "coding face off",
+     "Mode": "Offline",
+     "time": "2PM to 5PM",
+     "venue": "E-003",
+     " Coordinator": "Param Ajwaliya / Rathod Shahil"
+    },
+    {
+     "club": "Aatman",
+     "event": "Psynema",
+     "Mode": "Offline",
+     "time": "2PM to 5PM",
+     "venue": "D002",
+     " Coordinator": "Vraj"
+    },
+    {
+     "club": "Nucleus",
+     "event": "Physics Expo",
+     "Mode": "Offline",
+     "time": "2.30PM to 5.30PM",
+     "venue": "S path lawn",
+     " Coordinator": "Charvi Shastri / Aakarsh Garg",
+     "image": "https://drive.google.com/uc?id=1uIzCCYsRlavrJoD_BpX1XAvmIdyqG2PW",
+     "registration": "https://docs.google.com/forms/d/e/1FAIpQLSf_k0Q-nVYV_aK1dqRjbYwmU_cQzoYHCl0UI4oGpg2q24FsWQ/viewform"
+    },
+    {
+     "club": "Science and technical committee",
+     "event": "IOT Home Safety",
+     "Mode": "Offline",
+     "time": "3PM to 6PM",
+     "venue": "D003",
+     " Coordinator": "Kais Awadiya/ Shubhra"
+    },
+    {
+     "club": "VGA",
+     "event": "Cineshaam",
+     "Mode": "Offline",
+     "time": "4PM to 6PM",
+     "venue": "Auditorium",
+     " Coordinator": "Aakash Patankar",
+     "image": "https://drive.google.com/uc?id=1oTcNCrRVFLZX5waBaaaW_yNt8RJW6CNH",
+     "registration": "https://docs.google.com/forms/d/e/1FAIpQLScnKGNTdyM76hisr29spe9vtF37bpLnFUIgdW-7aWTqUX3Jmg/viewform"
+    },
+    {
+     "club": "Apogee3",
+     "event": "Lift Off",
+     "Mode": "Offline",
+     "time": "4PM to 6PM",
+     "venue": "Cricket Ground",
+     "Remarks": "Needs approval from Pooja ma'am",
+     "registration": "https://forms.gle/ndhmz6iQGTJfTupj9"
+    },
+    {
+     "club": "Science and Technical committee",
+     "event": "Tess fair",
+     "Mode": "Offline",
+     "time": "5:30PM onwards",
+     "venue": "S path lawn",
+     " Coordinator": "Pathik / Prayag / Indrajeet / Ritika / Dinky"
+    },
+    {
+     "club": "Sorriso",
+     "event": "Sorriso Photobooth",
+     "Mode": "Offline",
+     "time": "5:30PM onwards",
+     "venue": "S path lawn",
+     " Coordinator": "a"
+    },
+    {
+     "club": "Brahmand",
+     "event": "night sky gazing",
+     "Mode": "Offline",
+     "time": "7:30PM onwards",
+     "venue": "Cricket Ground",
+     " Coordinator": "Vaishnavi/Het/Nivid/Vrund patel",
+     "image": "https://drive.google.com/uc?id=13-nijOBsB5_tA_rz6fAYCYfpniPuWjNY"
+    },
+    {
+     "club": "Cube-i-Cult",
+     "event": "FearyRush",
+     "Mode": "Offline",
+     "time": "9AM to 6PM",
+     "venue": "Amenities lawn",
+     " Coordinator": "Kushal",
+     "registration": "https://docs.google.com/forms/d/e/1FAIpQLSeUjQ_mZTwKFyUHHRKXeibC_iHxAPZB-VET1zTdRuFEbNpQIQ/viewform"
+    },
+    {
+     "club": "Anirveda",
+     "event": "Global-o-Poly",
+     "Mode": "Offline",
+     "time": "9AM to 6PM",
+     "venue": "D-008",
+     " Coordinator": "Ritika Adhiya / Rutvi Shah",
+     "image": "https://www.canva.com/design/DAFZCTpwr4c/DFCJa_qE1bKmOZ31yfTsgg/edit?utm_content=DAFZCTpwr4c&amp;utm_campaign=designshare&amp;utm_medium=link2&amp;utm_source=sharebutton",
+     "registration": "https://forms.gle/Stx3fN9UZRSeZoDX9"
+    },
+    {
+     "club": "Mind-Ripple",
+     "event": "Matrix Breakout",
+     "Mode": "Offline",
+     "time": "9AM to 6PM",
+     "venue": "S path lawn",
+     " Coordinator": "Vivaan Srivastav / Ishika Raiyani",
+     "image": "https://forms.gle/CkDJqKywRnFknJo76"
+    },
+    {
+     "club": "Anirveda",
+     "event": "ISS oddyssey",
+     "Mode": "Offline",
+     "time": "9AM to 6PM",
+     "venue": "E block foyer",
+     " Coordinator": "Ritika Adhiya / Rutvi Shah",
+     "image": "https://www.postermywall.com/index.php/posterbuilder/view/6910eab2a8ded3f6d9e26d7354456bae/0",
+     "registration": "https://docs.google.com/forms/d/1uiQvvKWZnDjkEOztGJQzLUzeDkWx-y-BK4MoOWOO9gY/edit"
+    },
+    {
+     "club": "Geeks to peaks",
+     "event": "Vaccume adventure",
+     "Mode": "Offline",
+     "time": "9AM to 6PM",
+     "venue": "E004",
+     " Coordinator": "Param Ajwaliya / Rathod Shahil"
+    },
+    {
+     "club": "Avionics",
+     "event": "RC airplane making workshop(flying)",
+     "Mode": "Offline",
+     "time": "9AM to 1PM",
+     "venue": "E block groud and D 004",
+     " Coordinator": "Rutul / Dev Shah",
+     "image": "https://drive.google.com/uc?id=1j9LPEK06Q5tySpFl1AVSk1UHBq84ED69/view"
+    },
+    {
+     "club": "Science and Technical committee",
+     "event": "Human Board Games",
+     "Mode": "Offline",
+     "time": "10AM to 2PM",
+     "venue": "E-001",
+     " Coordinator": "Prayag / Indrajeet"
+    },
+    {
+     "club": "Bulls&amp;Bears",
+     "event": "Splitwise",
+     "Mode": "Offline",
+     "time": "10AM to 3PM",
+     "venue": "D-006",
+     " Coordinator": "Tushar / Harsh Patadia",
+     "image": "https://drive.google.com/uc?id=10nqbrtpAhgwDwEjoJKChlQv3x-tzz_Cv",
+     "registration": "https://unstop.com/competition/splitwise-a-de-merger-case-study-competition-pandit-deendayal-energy-university-gandhinagar-587691"
+    },
+    {
+     "club": "Encode",
+     "event": "Codewar",
+     "Mode": "Offline",
+     "time": "10AM to 2PM",
+     "venue": "C-007 &amp; C-008",
+     " Coordinator": "Mitansh /Aanchal singh/ Shruti Patel",
+     "image": "https://docs.google.com/forms/d/1a5rCN8O8uTkFT-TveNMWciwSGIdIiKVrncTbzscNQf8/viewform?ts=639a10bb&amp;edit_requested=true",
+     "registration": "https://docs.google.com/forms/d/1a5rCN8O8uTkFT-TveNMWciwSGIdIiKVrncTbzscNQf8/viewform?ts=639a10bb&amp;edit_requested=true"
+    },
+    {
+     "club": "Symmetry",
+     "event": "The world of 3d design",
+     "Mode": "Offline",
+     "time": "11AM to 1PM",
+     "venue": "C-001",
+     " Coordinator": "Dinky Unadkat",
+     "image": "https://drive.google.com/uc?id=1E_bbv6isCiZmmHSMBMvX4BNIJhOz3M5E",
+     "registration": "https://docs.google.com/forms/d/e/1FAIpQLSclrgno5apjkrBUL76g-sD9JLEfx2F564vTtSn39G_of-4m7g/viewform"
+    },
+    {
+     "club": "GDSC",
+     "event": "Deep Learning and its application workshop",
+     "Mode": "Offline",
+     "time": "11AM to 1PM",
+     "venue": "D007",
+     " Coordinator": "Param Ajwaliya / Rathod Shahil"
+    },
+    {
+     "club": "Respawn",
+     "event": "PC Building Workshop",
+     "Mode": "Offline",
+     "time": "12PM to 4PM",
+     "venue": "E-002",
+     " Coordinator": "Kalash Bhat/Indrajeet patel",
+     "image": "https://drive.google.com/uc?id=1Zs3uw-xoCLrmNA1QRI_dEJ011becks9t",
+     "registration": "https://docs.google.com/forms/d/1_iY3Pq0UwsWZGQYrSneFA6LO94LcQsJ_UmfBrpdvBIc/viewform?edit_requested=true"
+    },
+    {
+     "club": "Science and Technical committee",
+     "event": "Basic Electronics Demonstration",
+     "Mode": "Offline",
+     "time": "1PM to 4PM",
+     "venue": "C002",
+     " Coordinator": "Rutul / Dev Shah"
+    },
+    {
+     "club": "Science and Technical committee",
+     "event": "Circuit debugging",
+     "Mode": "Offline",
+     "time": "2PM to 4PM",
+     "venue": "D-001",
+     " Coordinator": "Sneha Meghani / Yash arya"
+    },
+    {
+     "club": "Brahmand",
+     "event": "Astrohunt",
+     "Mode": "Offline",
+     "time": "2PM to 4PM",
+     "venue": "Entire Campus / meeting point - B block foyer",
+     " Coordinator": "Vaishnavi/Het/Nivid/Vrund patel",
+     "registration": "https://forms.gle/A7ZCQbMfr3dWMTs69"
+    },
+    {
+     "club": "Cretus",
+     "event": "Mars Rover",
+     "Mode": "Offline",
+     "time": "2PM to 5PM",
+     "venue": "E-005",
+     " Coordinator": "Arya patel / Rudra Patel",
+     "image": "https://drive.google.com/uc?id=1DMXomvN9cnAFRjzs2GLRfpLM587rQ9qb",
+     "registration": "https://docs.google.com/forms/d/e/1FAIpQLSeNemwCCVf7XVZUU6IzmvV6ezZZW37RcXW0OUpOt4VinEJUJQ/viewform"
+    },
+    {
+     "club": "Science and Technical committee",
+     "event": "DIY Hologram",
+     "Mode": "Offline",
+     "time": "3PM to 5PM",
+     "venue": "E-001",
+     " Coordinator": "Richa Parmar / Vanshika Chavda"
+    },
+    {
+     "club": "Sorriso",
+     "event": "Sorriso Photobooth",
+     "Mode": "Offline",
+     "time": "5:30PM onwards",
+     "venue": "S path lawn",
+     " Coordinator": "Richa Parmar / Vanshika Chavda"
+    }
+   ]

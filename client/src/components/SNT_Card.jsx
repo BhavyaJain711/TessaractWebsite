@@ -10,7 +10,7 @@ const ACM_Card = () => {
     <section className="agents">
 
     <div id='about' className="agents-heading">
-    <span>Agents</span>
+    <span>About Usk</span>
     <h2> Our Agents </h2>
     </div>
 

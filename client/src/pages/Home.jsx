@@ -2,7 +2,7 @@ import { useState } from 'react';
 import Herosection from '../components/Herosection'
 import Secondpage from '../components/Secondpage'
 import Events from "../components/Events";
-import About from "../components/About";
+// import About from "../components/About";
 // import Caraousel from "../components/Carousel";
 import PopUp from "../components/Popup";
 function Home() {
@@ -18,7 +18,7 @@ function Home() {
   {/* <Caraousel style={{position:'relative'}}/> */}
   <PopUp  func={toggleGallery}/>
   <Events />
-  <About />
+  {/* <About /> */}
     </>
   )
 }

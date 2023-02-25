@@ -1,7 +1,7 @@
 # Tessaract 2023 Website
 
 
-Developed by [SnT Web Team] [Parth Sood](https://github.com/psood708), [Aniket Patel](https://github.com/Aniket-Patel-swg), and [Bhavya Jain](https://github.com/BhavyaJain711))
+Developed by [SnT Web Team] [Parth Sood](https://github.com/psood708), [Aniket Patel](https://github.com/Aniket-Patel-swg), [Kaxit Pandya]() and [Bhavya Jain](https://github.com/BhavyaJain711))
 
 # Folder Structure
 
